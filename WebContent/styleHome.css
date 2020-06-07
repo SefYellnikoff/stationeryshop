@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+
+.center {
+    text-align: center;
+    margin-top: 250px;
+}
+
+
+.reset {
+    border-radius: 200px;
+    width: 200px;
+}
+
+.radius {
+    border-radius: 200px;
+}
+.formStyle{
+	    margin-left: 30%;
+    margin-top: -15%;
+}
+.form3{
+	margin-left: 60%;
+	 margin-top: -17%;
+}
+
+#home {
+   background-image: url("home.jpg");
+    background-color: rgba(255, 255, 255, 0.4);
+    background-blend-mode: lighten;
+    background-size: 100%;
+}

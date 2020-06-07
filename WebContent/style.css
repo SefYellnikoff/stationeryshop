@@ -1,0 +1,36 @@
+ @charset "ISO-8859-1";
+#ordini {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+  
+}
+
+#ordini td, #ordini th {
+  border: 1px solid #ff00ff;
+  padding: 8px;
+  justify-content:center;
+  text-align:center;
+}
+
+
+
+#ordini tr:hover {background-color: pink;}
+
+#ordini th {
+  padding-top: 6px;
+  padding-bottom: 6px;
+  text-align: left;
+  background-color: #8080ff;
+  color: black;
+}
+#form_ordini{
+	margin-top:20px;
+}
+
+body {
+    background-image: url('img/sfondoCart.jpg');
+    background-color: rgba(255, 255, 255, 0.4);
+    background-blend-mode: lighten;
+    background-size: 100%;
+}
